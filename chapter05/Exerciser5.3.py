@@ -1,0 +1,2 @@
+s = 'word'
+print(s[::])
