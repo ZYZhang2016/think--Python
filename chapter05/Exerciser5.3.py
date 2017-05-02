@@ -1,2 +1,0 @@
-s = 'word'
-print(s[::])

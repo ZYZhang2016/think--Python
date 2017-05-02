@@ -5,7 +5,7 @@ def is_triangle(a,b,c):
 	param a: 边长1
 	param b: 边长2
 	param c: 边长3
-	return: 返回是否能构成三角形的结果
+	return: 返回是否能构成三角形的结布尔值
 	'''
 	test1 = a+b-c
 	test2 = a+c-b
