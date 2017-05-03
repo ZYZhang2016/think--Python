@@ -1,37 +1,46 @@
 #coding:utf-8
 import math
 import time
-def square_newton(a):
+def square_newton(a,epsilon=0.001):
 	'''用牛顿法求平方根
 
 	:param a: 待开方的数
 	:return:返回a的平方根
 	'''
-	x = a/2.0
+	assert a >= 0,'a应该为非负数'
+	x = a/2
+	count = 0
 	while True:
-		print (x)
+		print (count,x)
 		y = 0.5*(x+a/x)
-		if abs(y-x) < 0.0001:
+		count += 1
+		if abs(y-x) < epsilon:
 			break
 		x = y
-square_newton(0.3)
+	return x
+print(square_newton(3000))
+#print(math.sqrt(3))
 
-def square_erfenfa(a):
+def square_erfenfa(a,epsilon=0.001):
 	'''用二分法求平方根
 
 	:param a: 待开方的数
 	:return:返回a的平方根
 	'''
-
-	if (a/2.0)**2 == a:
-		print (a)
-	x = 0
-	while True:
-		y = (a+x)/2.0
-		print (y)
-		if y**2 > a:
-			x = y
-		elif x**2 < a:
-			a = y
-
-#square_erfenfa(3)
+	floor = 0
+	ceiling = a
+	count = 0
+	x = (floor+ceiling)/2
+	if x*x == a:
+		return x
+	while abs(a-x*x)>epsilon:
+		print(count,x)
+		count += 1
+		if x*x > a:
+			ceiling = x
+			x = (floor+ceiling)/2
+		else:
+			floor = x
+			x = (floor+ceiling)/2
+	return x
+print(square_erfenfa(3000))
