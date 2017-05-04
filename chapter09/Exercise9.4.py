@@ -7,7 +7,7 @@ def uses_only(word,letters):
 	:return: 布尔值
 	'''
 	for letter in word:
-		if letters.find(letter) == -1:
+		if letter not in letters:
 			return False
 	return True
-print uses_only('wordz','word')
+print (uses_only('wo','word'))
