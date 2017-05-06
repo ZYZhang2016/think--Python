@@ -31,4 +31,4 @@ def bisect(words,word):
 			return count,mid
 	return count,None
 
-print(bisect(words1,'aa'))
+print(bisect(words1,'apple'))
