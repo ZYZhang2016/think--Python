@@ -21,14 +21,12 @@ def bisect(words,word):
 
 def find_plalidrome(words,word):
 	i = 0
-	plalidrome = []
+	plalidrome = {}
 	for word in words:
 		if bisect(words[i+1:], word[::-1]):
-			 plalidrome.append(word)
+			 plalidrome[i] = word
 		i += 1
 	return plalidrome
-
-
 start = time.clock()
 print(find_plalidrome(words,word))
 end = time.clock()
