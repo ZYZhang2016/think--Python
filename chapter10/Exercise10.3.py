@@ -12,4 +12,4 @@ def is_sorted(list):
 		i += 1
 	return True
 
-print is_sorted([1,2,3,1])
+print(is_sorted([1,2,3,1]))
