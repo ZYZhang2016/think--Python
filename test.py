@@ -1,3 +1,10 @@
-dic = dict(zip('abc',range(1,4)))
-print(dic.setdefault('z',100))
-print(dic)
+#coding：utf-8
+
+handler = open('words.txt')
+words = []
+for word in handler:
+    word = word.strip()
+    words.append(word)
+
+if "impenitently" in words:
+    print("I am wrong")

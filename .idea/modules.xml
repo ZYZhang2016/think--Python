@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/think  Python.iml" filepath="$PROJECT_DIR$/.idea/think  Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/thinkPython.iml" filepath="$PROJECT_DIR$/.idea/thinkPython.iml" />
     </modules>
   </component>
 </project>

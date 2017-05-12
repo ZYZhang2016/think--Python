@@ -1,6 +1,5 @@
 #coding:utf-8
 
-import time
 import shelve
 import pickle
 
@@ -37,19 +36,19 @@ def find_plalidrome(words):
 	:param words:单词序列
 	:return:返回一个序列，包含所有words中的回文单词
 	'''
-    db = shelve.open('plalidrome_words.db','c')
-    i = 0
-    for word in words:
-        if bisect(words[i+1:], word[::-1]):
-            i_pickle = pickle.dumps(i)
-            db[i_pickle] = word
-            i += 1
+	db = shelve.open('plalidrome_words.db','c')
+	i = 0
+	for word in words:
+		if bisect(words[i+1:], word[::-1]):
+			i_pickle = pickle.dumps(i)
+			db[i_pickle] = word
+			i += 1
 	db.close()
 
-
-#创建数据库保存查找到的单词
-
-start = time.clock()
-print(find_plalidrome(words))
-end = time.clock()
-print(end-start)
+find_plalidrome(words)
+'''
+db = open('plalidrome_words.db')
+for key,val in db:
+	print(key,val)
+	print('|')
+'''

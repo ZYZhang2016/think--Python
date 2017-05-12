@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://G:/myCode/thinkPython/chapter04/Exercise4.12.3.py" line="15" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/chapter04/Exercise4.12.3.py" line="15" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="536bd293-1ddb-43ef-b0b1-73bbb1439c40" name="Default" comment="" />
+    <list default="true" id="536bd293-1ddb-43ef-b0b1-73bbb1439c40" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thinkPython.iml" afterPath="$PROJECT_DIR$/.idea/thinkPython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter14/Exercise14.3.py" afterPath="$PROJECT_DIR$/chapter14/Exercise14.3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter14/test.py" afterPath="$PROJECT_DIR$/chapter14/test.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/words.txt" afterPath="$PROJECT_DIR$/chapter14/words.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +29,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Exercise14.2.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/myCode/thinkPython/chapter14/Exercise14.2.py">
+        <entry file="file://$PROJECT_DIR$/chapter14/Exercise14.2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
               <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
@@ -32,39 +39,41 @@
         </entry>
       </file>
       <file leaf-file-name="Exercise12.4.1.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/myCode/thinkPython/chapter12/Exercise12.4.1.py">
+        <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.4.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
+            <state relative-caret-position="504">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise14.3.py" pinned="false" current-in-tab="true">
-        <entry file="file://G:/myCode/thinkPython/chapter14/Exercise14.3.py">
+      <file leaf-file-name="Exercise14.3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter14/Exercise14.3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="881">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="174">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imdb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/imdb.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter14/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1908">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
               <folding>
-                <element signature="e#259#268#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Exercise14.5.py" pinned="false" current-in-tab="false">
-        <entry file="file://G:/myCode/thinkPython/chapter14/Exercise14.5.py">
+        <entry file="file://$PROJECT_DIR$/chapter14/Exercise14.5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
@@ -83,62 +92,62 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="G:/myCode/think  Python" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="G:/myCode/think  Python/chapter04/Exercise4.12.2.py" />
-        <option value="G:/myCode/think  Python/chapter04/polygon.py" />
-        <option value="G:/myCode/think  Python/chapter04/Exercise4.12.3.py" />
-        <option value="G:/myCode/think  Python/chapter05/Exercise5.2.py" />
-        <option value="G:/myCode/think  Python/chapter05/Exerciser5.3.py" />
-        <option value="G:/myCode/think  Python/chapter05/Exercise5.3.py" />
-        <option value="G:/myCode/think  Python/chapter05/Exercise5.4.py" />
-        <option value="G:/myCode/think  Python/chapter05/Exercise5.1.py" />
-        <option value="G:/myCode/think  Python/chapter06/Exercise6.2.py" />
-        <option value="G:/myCode/think  Python/chapter06/Exercise6.3.py" />
-        <option value="G:/myCode/think  Python/chapter06/Exercise6.5.py" />
-        <option value="G:/myCode/think  Python/chapter06/Exercise6.7.py" />
-        <option value="G:/myCode/think  Python/chapter06/Exercise6.6.py" />
-        <option value="G:/myCode/think  Python/chapter06/Exercise6.8.py" />
-        <option value="G:/myCode/think  Python/chapter07/Exercise7.2_square.py" />
-        <option value="G:/myCode/think  Python/chapter08/Exercise8.12.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.1.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.2.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.5.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exerxise9.6.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.3.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.4.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.7.py" />
-        <option value="G:/myCode/think  Python/chapter09/test.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.8.py" />
-        <option value="G:/myCode/think  Python/chapter09/Exercise9.9.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.1.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.2.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.3.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.4.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.6.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.7.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.8.py" />
-        <option value="G:/myCode/think  Python/chapter11/Exercise11.3.py" />
-        <option value="G:/myCode/think  Python/chapter11/Exercise11.4.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.8_二分法查找.py" />
-        <option value="G:/myCode/think  Python/chapter11/test.py" />
-        <option value="G:/myCode/think  Python/chapter10/二维坐标下的二分法查找.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.5.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise12.1.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise12.3.py" />
-        <option value="G:/myCode/think  Python/chapter10/Exercise10.9.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise12.4.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise12.4.3.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise13.1.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise12.5.py" />
-        <option value="G:/myCode/think  Python/chapter12/test.py" />
-        <option value="G:/myCode/think  Python/chapter14/Exercise14.2.py" />
-        <option value="G:/myCode/think  Python/chapter12/Exercise12.4.1.py" />
-        <option value="G:/myCode/think  Python/chapter14/Exercise14.3.py" />
-        <option value="G:/myCode/think  Python/chapter14/Exercise14.5.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter04/Exercise4.12.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter05/Exercise5.2.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter05/Exerciser5.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter05/Exercise5.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter05/Exercise5.4.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter05/Exercise5.1.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.2.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.5.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.7.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.6.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.8.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter07/Exercise7.2_square.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter08/Exercise8.12.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.1.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.2.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.5.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exerxise9.6.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.4.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.7.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/test.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.8.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter09/Exercise9.9.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.1.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.2.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.4.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.6.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.7.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.8.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter11/Exercise11.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter11/Exercise11.4.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.8_二分法查找.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter11/test.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/二维坐标下的二分法查找.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.5.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.1.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter10/Exercise10.9.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.4.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.4.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise13.1.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.5.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/test.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter14/Exercise14.2.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.4.1.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter14/Exercise14.3.py" />
+        <option value="$PROJECT_DIR$/../think  Python/chapter14/Exercise14.5.py" />
+        <option value="$PROJECT_DIR$/chapter14/Exercise14.3.py" />
+        <option value="$PROJECT_DIR$/chapter14/test.py" />
       </list>
     </option>
   </component>
@@ -166,12 +175,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
+              <option name="myItemId" value="thinkPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -181,7 +189,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
+              <option name="myItemId" value="thinkPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -193,108 +201,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter12" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter09" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="think  Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
-    <property name="last_opened_file_path" value="G:/myCode/library/python functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\myCode\thinkPython\chapter14" />
       <recent name="G:\myCode\think  Python\chapter10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercise14.5">
-    <configuration default="false" name="Exercise12.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="G:/myCode/think  Python/chapter12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="think  Python" />
-      <option name="SCRIPT_NAME" value="G:/myCode/think  Python/chapter12/Exercise12.5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test (1)">
     <configuration default="false" name="Exercise14.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,29 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="G:/myCode/think  Python/chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../think  Python/chapter14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="think  Python" />
-      <option name="SCRIPT_NAME" value="G:/myCode/think  Python/chapter14/Exercise14.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="G:/myCode/think  Python/chapter12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="think  Python" />
-      <option name="SCRIPT_NAME" value="G:\myCode\think  Python\chapter12\primes_生成素数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../think  Python/chapter14/Exercise14.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -336,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="G:/myCode/think  Python/chapter12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../think  Python/chapter12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="think  Python" />
-      <option name="SCRIPT_NAME" value="G:/myCode/think  Python/chapter12/Exercise12.4.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../think  Python/chapter12/Exercise12.4.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -353,12 +259,46 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="G:/myCode/think  Python/chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../think  Python/chapter14" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="think  Python" />
-      <option name="SCRIPT_NAME" value="G:/myCode/think  Python/chapter14/Exercise14.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../think  Python/chapter14/Exercise14.5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise14.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thinkPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter14/Exercise14.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thinkPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter14/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -498,19 +438,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercise12.5" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Exercise14.2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Exercise12.4.1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exercise14.5" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Exercise14.2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exercise12.4.1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Exercise14.5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exercise14.3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercise14.5" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Exercise12.4.1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exercise14.2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Exercise12.5" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercise14.3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exercise14.5" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exercise12.4.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exercise14.2" />
       </list>
     </recent_temporary>
   </component>
@@ -548,7 +488,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.248104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2340195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -588,16 +528,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://G:/myCode/thinkPython/chapter06/Exercise6.8.py</url>
+          <url>file://$PROJECT_DIR$/chapter06/Exercise6.8.py</url>
           <line>24</line>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://G:/myCode/thinkPython/chapter10/Exercise10.7.py</url>
+          <url>file://$PROJECT_DIR$/chapter10/Exercise10.7.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://G:/myCode/thinkPython/chapter10/Exercise10.9.py</url>
+          <url>file://$PROJECT_DIR$/chapter10/Exercise10.9.py</url>
           <line>24</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -607,31 +547,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://G:/myCode/sth interesting/wechat-badminton_register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/myCode/think  Python/chapter06/Exercise6.7.py" />
-    <entry file="file://G:/myCode/thinkPython/chapter06/Exercise6.5.py">
+    <entry file="file://$PROJECT_DIR$/../think  Python/chapter06/Exercise6.7.py" />
+    <entry file="file://$PROJECT_DIR$/chapter06/Exercise6.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter05/Exercise5.4.py">
+    <entry file="file://$PROJECT_DIR$/chapter05/Exercise5.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/think  Python/chapter09/Exerxise9.6.py" />
-    <entry file="file://G:/myCode/think  Python/chapter09/test.py" />
-    <entry file="file://G:/myCode/thinkPython/README.md">
+    <entry file="file://$PROJECT_DIR$/../think  Python/chapter09/Exerxise9.6.py" />
+    <entry file="file://$PROJECT_DIR$/../think  Python/chapter09/test.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -641,7 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter06/Exercise6.8.py">
+    <entry file="file://$PROJECT_DIR$/chapter06/Exercise6.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
@@ -649,63 +582,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter07/Exercise7.5.py">
+    <entry file="file://$PROJECT_DIR$/chapter07/Exercise7.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter06/Exercise6.6.py">
+    <entry file="file://$PROJECT_DIR$/chapter06/Exercise6.6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter07/Exercise7.4.py">
+    <entry file="file://$PROJECT_DIR$/chapter07/Exercise7.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter08/Exercise8.2.py">
+    <entry file="file://$PROJECT_DIR$/chapter08/Exercise8.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter08/Exercise8.1.py">
+    <entry file="file://$PROJECT_DIR$/chapter08/Exercise8.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter07/Exercise7.2_square.py">
+    <entry file="file://$PROJECT_DIR$/chapter07/Exercise7.2_square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter11/Exercise11.4.py">
+    <entry file="file://$PROJECT_DIR$/chapter11/Exercise11.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter11/Exercise11.3.py">
+    <entry file="file://$PROJECT_DIR$/chapter11/Exercise11.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/二维坐标下的二分法查找.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/二维坐标下的二分法查找.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
@@ -713,126 +646,126 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/structshape.py" />
-    <entry file="file://G:/myCode/thinkPython/chapter12/Exercise12.1.py">
+    <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter12/Exercise12.3.py">
+    <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
           <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.9.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.8.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.7.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.6.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.5.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.4.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.3.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.2.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter09/Exercise9.1.py">
+    <entry file="file://$PROJECT_DIR$/chapter09/Exercise9.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="68" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter08/Exercise8.12.py">
+    <entry file="file://$PROJECT_DIR$/chapter08/Exercise8.12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1022">
           <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter08/Exercise8.9.py">
+    <entry file="file://$PROJECT_DIR$/chapter08/Exercise8.9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter08/Exercise8.4.py">
+    <entry file="file://$PROJECT_DIR$/chapter08/Exercise8.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.1.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.5.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.6.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.7.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
@@ -840,43 +773,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.8_二分法查找.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.8_二分法查找.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.4.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.3.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.2.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter12/Exercise12.4.3.py">
+    <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.4.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/think  Python/chapter12/Exercise13.1.py" />
-    <entry file="file://G:/myCode/thinkPython/chapter12/Exercise12.5.py">
+    <entry file="file://$PROJECT_DIR$/../think  Python/chapter12/Exercise13.1.py" />
+    <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
@@ -890,7 +823,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter10/Exercise10.9.py">
+    <entry file="file://$PROJECT_DIR$/chapter10/Exercise10.9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -898,8 +831,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/think  Python/chapter12/primes_生成素数.py" />
-    <entry file="file://G:/myCode/thinkPython/chapter14/Exercise14.2.py">
+    <entry file="file://$PROJECT_DIR$/../think  Python/chapter12/primes_生成素数.py" />
+    <entry file="file://$PROJECT_DIR$/chapter14/Exercise14.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
@@ -909,7 +842,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/imdb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1908">
+        <state relative-caret-position="1944">
           <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="e#259#268#0" expanded="true" />
@@ -917,7 +850,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter14/Exercise14.5.py">
+    <entry file="file://$PROJECT_DIR$/chapter14/Exercise14.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
@@ -925,19 +858,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter12/Exercise12.4.1.py">
+    <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.4.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="504">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/myCode/thinkPython/chapter14/Exercise14.3.py">
+    <entry file="file://$PROJECT_DIR$/chapter14/Exercise14.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="174">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter14/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
