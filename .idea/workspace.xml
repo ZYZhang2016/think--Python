@@ -6,11 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="536bd293-1ddb-43ef-b0b1-73bbb1439c40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter15/insert_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter16/Exercise16.1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter16/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter16/Exercise16.3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter16/Exercise16.4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/thinkPython.iml" afterPath="$PROJECT_DIR$/.idea/thinkPython.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter15/Exercise15.1.py" afterPath="$PROJECT_DIR$/chapter15/Exercise15.1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter16/__init__.py" afterPath="$PROJECT_DIR$/chapter16/Exercise16.2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,41 +29,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercise15.4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter15/Exercise15.4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Exercise16.1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise15.2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter15/Exercise15.2.py">
+      <file leaf-file-name="Exercise16.2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="468">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise15.1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter15/Exercise15.1.py">
+      <file leaf-file-name="Exercise16.3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise16.4.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -77,15 +78,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time_obj</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>new_time_obj</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.3.py" />
-        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.5.py" />
-        <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.7.py" />
         <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.6.py" />
         <option value="$PROJECT_DIR$/../think  Python/chapter06/Exercise6.8.py" />
         <option value="$PROJECT_DIR$/../think  Python/chapter07/Exercise7.2_square.py" />
@@ -134,6 +140,9 @@
         <option value="$PROJECT_DIR$/chapter15/insert_sort.py" />
         <option value="$PROJECT_DIR$/chapter16/Exercise16.1.py" />
         <option value="$PROJECT_DIR$/chapter15/Exercise15.1.py" />
+        <option value="$PROJECT_DIR$/chapter16/Exercise16.2.py" />
+        <option value="$PROJECT_DIR$/chapter16/Exercise16.3.py" />
+        <option value="$PROJECT_DIR$/chapter16/Exercise16.4.py" />
       </list>
     </option>
   </component>
@@ -217,75 +226,7 @@
       <recent name="G:\myCode\think  Python\chapter10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercise15.1">
-    <configuration default="false" name="Exercise15.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="thinkPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/Exercise15.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise15.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="thinkPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/Exercise15.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="World" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/program/Python27/Lib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="thinkPython" />
-      <option name="SCRIPT_NAME" value="D:/program/Python27/Lib/World.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="insert_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="thinkPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/insert_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercise16.4">
     <configuration default="false" name="Exercise15.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,6 +240,74 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="thinkPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter15/Exercise15.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise16.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thinkPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16/Exercise16.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise16.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thinkPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16/Exercise16.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise16.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thinkPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16/Exercise16.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise16.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="thinkPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter16/Exercise16.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -438,19 +447,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Exercise15.3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Exercise15.4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.World" />
-      <item index="3" class="java.lang.String" itemvalue="Python.insert_sort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Exercise15.1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Exercise15.1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Exercise16.1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Exercise16.2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Exercise16.3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Exercise16.4" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Exercise15.1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.insert_sort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Exercise15.4" />
-        <item index="3" class="java.lang.String" itemvalue="Python.World" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Exercise15.3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Exercise16.4" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Exercise16.3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exercise16.2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Exercise16.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Exercise15.1" />
       </list>
     </recent_temporary>
   </component>
@@ -486,6 +495,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31190726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20260021" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -498,7 +508,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -547,21 +556,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter10/二维坐标下的二分法查找.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/structshape.py" />
-    <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter12/Exercise12.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="482">
@@ -820,7 +814,7 @@
         <state relative-caret-position="-8965">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#230#241#0" expanded="true" />
+            <element signature="e#230#241#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -889,6 +883,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter15/Exercise15.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter15/Exercise15.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -899,16 +901,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15/Exercise15.1.py">
+    <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="468">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter16/Exercise16.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding />
         </state>
       </provider>
