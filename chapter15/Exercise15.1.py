@@ -1,23 +1,27 @@
 #coding:utf-8
-import math
 
+class Rectangle(object):
+	'''represent a rectangle
+	attribute:width,height,corner
+	'''
 class Point(object):
-	'''一个二维的点
+	'''represent a 2-d point
+	attribute:x,y
 	'''
 
-def distance(q,p):
-	x_diff = q.x - p.x
-	y_diff = q.y - p.y
-	distance = math.sqrt(x_diff**2+y_diff**2)
-	return distance
+def print_time(t):
+	a = '%.2d:%.2d:%.2d' % (t.hour,t.minute,t.second)
+	b = '{0}:{1}:{2}'.format(t.hour,t.minute,t.second)
+	print(b)
 
-def main():
-	first = Point()
-	first.x,first.y = 3,7
-	second = Point()
-	second.x,second.y = 4,8
+class Time(object):
+	'''represent time
+	attribute:hour,minute,second
+	'''
 
-	print(distance(first,second))
+time = Time()
+time.hour = 12
+time.minute = 34
+time.second = 48
 
-if __name__=='__main__':
-	main()
+print_time(time)
